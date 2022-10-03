@@ -6,6 +6,10 @@ html * {
     background-color: #fff;
 }
 
+.link-main {
+    margin-left: 1rem;
+}
+
 #name {
     display: flex;
     justify-content: center;
